@@ -6,12 +6,8 @@ This project focuses on an Exploratory Data Analysis (EDA) for predicting the sa
 1. [Project Background](#project-background)
 2. [Data Description](#data-description)
 3. [Analysis Objectives](#analysis-objectives)
-4. [Project Structure](#project-structure)
-5. [Key Insights](#key-insights)
-6. [Technologies Used](#technologies-used)
-7. [How to Run the Project](#how-to-run-the-project)
-8. [Contributions](#contributions)
-9. [License](#license)
+4. [How to Run the Project](#how-to-run-the-project)
+5. [Contributions](#contributions)
 
 ## Project Background
 With the rapid growth in the Data Science field, the demand for skilled data professionals has increased, directly impacting salaries. This project aims to analyze factors affecting these salaries and prepare data for the development of an effective predictive model.
