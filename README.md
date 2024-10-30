@@ -8,6 +8,7 @@ This project focuses on an Exploratory Data Analysis (EDA) for predicting the sa
 3. [Analysis Objectives](#analysis-objectives)
 4. [How to Run the Project](#how-to-run-the-project)
 5. [Contributions](#contributions)
+6. [License](#license)
 
 ## Project Background
 With the rapid growth in the Data Science field, the demand for skilled data professionals has increased, directly impacting salaries. This project aims to analyze factors affecting these salaries and prepare data for the development of an effective predictive model.
@@ -42,3 +43,6 @@ The dataset includes several features related to the salaries of data profession
 
 ## Contributions
 Contributions are welcome. Please create an *issue* before making significant changes to discuss the scope.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
